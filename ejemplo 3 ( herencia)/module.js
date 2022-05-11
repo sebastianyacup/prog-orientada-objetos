@@ -1,0 +1,1 @@
+import {PlatziClass} from "./main.mjs"</script>
